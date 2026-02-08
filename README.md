@@ -27,7 +27,7 @@
   교통약자용 지하철 환승 정보 앱(Android)  
 
 - **[OPEN-SET-GO](https://github.com/AgainIoT/Open-Set-Go)**  
-  오픈소스 프로젝트 생성·관리 플랫폼(React.js)  
+  오픈소스 프로젝트 생성·관리 플랫폼
   🏆 2023 공개SW 개발자대회 은상 / 2023 한국소프트웨어종합학술대회 최우수논문상  
 
 - **[용문고 교육 봉사](https://github.com/Kim-Jiyun/2023-2-YongMoon-Voluntary)**  
