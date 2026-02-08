@@ -7,7 +7,7 @@ Java | React | React Native | Android | TypeScript | Figma
 ### 📌 참여 프로젝트
 - [LOOK-OUT](https://github.com/KOSS-LOOK-OUT)
   청각장애인을 위한 위험 알림 앱(Android)
-- [모두의 환승](https://github.com/AgainIoT/Everyones-Transfer_Main)  
+- [모두의 환승](https://github.com/AgainIoT/Everyones-Transfer_Main)
   교통약자용 지하철 환승 정보 앱(Android)
 - [OPEN-SET-GO](https://github.com/AgainIoT/Open-Set-Go)
   오픈소스 프로젝트 생성·관리 플랫폼
