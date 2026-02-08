@@ -15,7 +15,7 @@ Java | React | React Native | Android | TypeScript | Figma
 - [용문고 교육 봉사](https://github.com/Kim-Jiyun/2023-2-YongMoon-Voluntary)
   용문고등학교 HTML & CSS & JavaScript 교육 봉사
 - [우웅](https://github.com/kookmin-sw/capstone-2025-13) 
-  자기주도 우울증 관리 모바일 앱(Android/IOS)  
+  자기주도 우울증 관리 모바일 앱(Android/IOS)
   🏆 2025 캡스톤디자인 전시회 동상
 - [이음](https://github.com/orgs/ieum-live/repositories)
   청소년 도박 및 우울증 관리 모바일 앱(Android/IOS)
