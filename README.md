@@ -32,7 +32,6 @@
 
 - **[용문고 교육 봉사](https://github.com/Kim-Jiyun/2023-2-YongMoon-Voluntary)**  
   HTML, CSS, JavaScript 교육 봉사  
-  📍 역할: 고등학생 대상 교육 콘텐츠 기획 및 실습 지도
 
 - **[우웅](https://github.com/kookmin-sw/capstone-2025-13)**  
   자기주도 우울증 관리 모바일 앱(Android/iOS)  
