@@ -38,7 +38,7 @@
   🏆 2025 캡스톤디자인 전시회 동상  
 
 - **[이음](https://github.com/orgs/ieum-live/repositories)**  
-  청소년 도박 및 우울증 관리 모바일 앱(Android/iOS)  
+  청소년 도박 및 우울증 관리 모바일 앱(Android/iOS) 및 관리자 웹 서비스
 
 ---
 
